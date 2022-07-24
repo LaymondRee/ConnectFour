@@ -1,5 +1,5 @@
 /***************************************************************************
- * Program: assignment5.cpp
+ * Program: connectfour.cpp
  * Author: Raymond Lee
  * Date: 03-14-21
  * Description: Plays game of connect four with 1-2 players and a board size
