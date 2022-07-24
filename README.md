@@ -1,3 +1,3 @@
 # ConnectFour
-# Description
-test
+## Motivation
+## Description
