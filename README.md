@@ -1,3 +1,3 @@
 # ConnectFour
-## Motivation
 ## Description
+## How to Use?
